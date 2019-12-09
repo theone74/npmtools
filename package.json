@@ -15,7 +15,8 @@
   },
   "private": true,
   "bin": {
-    "psdtree": "./psdtree.js"
+    "psdtree": "./psdtree.js",
+    "psdunpack": "./psdunpack.js"
   },
   "repository": "https://github.com/theone74/npmtools.git"
 }
