@@ -1,0 +1,21 @@
+{
+  "name": "npmtools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Romanov A. <iam@theone74.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "psd.js": "^3.3.4",
+    "treeify": "^1.1.0",
+    "yargs": "^15.0.2"
+  },
+  "private": true,
+  "bin": {
+    "psdtree": "./psdtree.js"
+  },
+  "repository": "https://github.com/theone74/npmtools.git"
+}
