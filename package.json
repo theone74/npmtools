@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "npm i https://github.com/theone74/npmtools.git -g"
   },
   "author": "Romanov A. <iam@theone74.ru>",
   "license": "ISC",
