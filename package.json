@@ -10,7 +10,7 @@
   "author": "Romanov A. <iam@theone74.ru>",
   "license": "ISC",
   "dependencies": {
-    "psd.js": "^3.3.4",
+    "psd.js": "^3.6.5",
     "treeify": "^1.1.0",
     "yargs": "^15.0.2"
   },
